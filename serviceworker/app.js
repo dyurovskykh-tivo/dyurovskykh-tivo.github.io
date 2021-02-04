@@ -1,6 +1,11 @@
 firebase.initializeApp({
-    messagingSenderId: '200584913135'
-});
+    apiKey: "AIzaSyCIJuAbGVEl2dG4U5wb1Es9LlbG12NJC_M",
+    authDomain: "test-project-8c99e.firebaseapp.com",
+    projectId: "test-project-8c99e",
+    storageBucket: "test-project-8c99e.appspot.com",
+    messagingSenderId: "200584913135",
+    appId: "1:200584913135:web:ff8f66cace71c88e28fb1a"
+  });
 
 
 var bt_register = $('#register');
